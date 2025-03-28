@@ -16,6 +16,12 @@
             "binaryArgs": [
                 "101"
             ]
+        },
+        {
+            "cwd": "/mnt/raid1/freestylecoding/vscode_makefile/target",
+            "binaryPath": "/mnt/raid1/freestylecoding/vscode_makefile/target/CoinFlipper.out",
+            "binaryArgs": []
         }
-    ]
+    ],
+    "makefile.buildLog": ""
 }
